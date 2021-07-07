@@ -1,0 +1,7 @@
+{
+    "name": "BetterChat",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Terrain2/BetterChat",
+    "description": "Fixes 2 bugs in the chat and adds a chat history.",
+    "dependencies": []
+}
